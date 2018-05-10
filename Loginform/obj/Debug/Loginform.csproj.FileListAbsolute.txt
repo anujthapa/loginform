@@ -1,0 +1,9 @@
+D:\github\c-pratice\Loginform\bin\Debug\Loginform.exe
+D:\github\c-pratice\Loginform\bin\Debug\Loginform.pdb
+D:\github\c-pratice\Loginform\obj\Debug\Loginform.csprojResolveAssemblyReference.cache
+D:\github\c-pratice\Loginform\obj\Debug\Loginform.frm_login.resources
+D:\github\c-pratice\Loginform\obj\Debug\Loginform.Properties.Resources.resources
+D:\github\c-pratice\Loginform\obj\Debug\Loginform.csproj.GenerateResource.Cache
+D:\github\c-pratice\Loginform\obj\Debug\Loginform.csproj.CoreCompileInputs.cache
+D:\github\c-pratice\Loginform\obj\Debug\Loginform.exe
+D:\github\c-pratice\Loginform\obj\Debug\Loginform.pdb
